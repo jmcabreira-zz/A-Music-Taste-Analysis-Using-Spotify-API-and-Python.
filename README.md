@@ -1,8 +1,18 @@
 ![](images/CabreiraLogo.png)
 
-# Project
-- A-Music-Taste-Analysis-Using-Spotify-API-and-Python.
-  - Exploring Audio Features and building a Machine Learning Approach
+# Project :
+
+ - A-Music-Taste-Analysis-Using-Spotify-API-and-Python
+	- Scraped the audio feature of two Spotify accounts and built a music taste analysis
+	- Trained a machine learning model to predict each list a song would be more likely to belong 
+	
+	
+<p align="center">
+  <img  src="images/audio_features.png">
+</p>
+
+
+
     
  # About Me 
  
